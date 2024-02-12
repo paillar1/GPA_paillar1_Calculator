@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_paillar1_Calculator</string>
+    <string name="gpa_paillar1_calculator_heading">gpa_paillar1_calculator_heading</string>
+    <string name="course_2_grade">course_2_grade</string>
+    <string name="course_3_grade">course_3_grade</string>
+    <string name="course_4_grade">course_4_grade</string>
+    <string name="course_5_grade">course_5_grade</string>
+    <string name="compute_gpa">compute_gpa\n</string>
+    <string name="gpa">gpa</string>
+    <string name="gpa_paillar1_calculator">gpa_paillar1_calculator</string>
+    <string name="compute">compute</string>
+</resources>
